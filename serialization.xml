@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <hash>1260</hash>
+    <pib>Oleh Khomandiak</pib>
+    <course>3</course>
+    <averageMark>90</averageMark>
+  </Student>
+  <Student>
+    <hash>1116</hash>
+    <pib>Oleh Yanivskiy</pib>
+    <course>2</course>
+    <averageMark>93</averageMark>
+  </Student>
+  <Student>
+    <hash>864</hash>
+    <pib>Denis Tverdokhlib</pib>
+    <course>1</course>
+    <averageMark>72</averageMark>
+  </Student>
+  <Student>
+    <hash>610</hash>
+    <pib>Roman Betsko</pib>
+    <course>0</course>
+    <averageMark>61</averageMark>
+  </Student>
+  <Student>
+    <hash>1232</hash>
+    <pib>Dana Klymentovska</pib>
+    <course>3</course>
+    <averageMark>88</averageMark>
+  </Student>
+  <Student>
+    <hash>1360</hash>
+    <pib>Mikhaela Toporivska</pib>
+    <course>4</course>
+    <averageMark>85</averageMark>
+  </Student>
+</ArrayOfStudent>
